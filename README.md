@@ -11,3 +11,7 @@ Babelon is a transpiler that transpiles(fancy compilation) jsx to vanilla-js.
 ## Name your react knock off
 
 i am naming my react knock off plain React. you can call it whatever you like
+
+# todays target:
+
+[] learn typescript
